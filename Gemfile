@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'rb-readline'
 gem 'rails', '3.2.12'
 
 group :development do
